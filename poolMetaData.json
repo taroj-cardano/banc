@@ -3,5 +3,6 @@
 "description": "Japan quality!! Omotenashi,peace,and surprise.",
 "ticker": "BANC",
 "homepage": "https://bancpool.com",
-"extended": "https://raw.githubusercontent.com/taroj-cardano/banc/main/extendedMeta.json"
+"extended": "https://raw.githubusercontent.com/taroj-cardano/banc/main/extendedMeta.json",
+"verification":"0f1cbcb6a89190fe81"
 }
