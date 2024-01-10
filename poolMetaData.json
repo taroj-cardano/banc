@@ -1,7 +1,8 @@
 {
-"name": "banC StakePool", 
-"description": "Japan quality!! Omotenashi,peace,and surprise.",
-"ticker": "BANC",
-"homepage": "https://bancpool.com",
-"extended": "https://raw.githubusercontent.com/taroj-cardano/banc/main/extendedMeta.json"
+    "name": "banC StakePool",
+    "description": "Japan quality!! Omotenashi,peace,and surprise.",
+    "ticker": "BANC",
+    "homepage": "https://bancpool.com",
+    "extended": "https://raw.githubusercontent.com/taroj-cardano/banc/main/extendedMeta.json",
+    "nonce":"1704913520"
 }
